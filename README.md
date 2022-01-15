@@ -1,2 +1,1 @@
-# C--OOP-2021-SoftUni
-Exercises for C# OOP Module.
+Exercises for C# OOP Module in SoftUni.
